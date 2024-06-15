@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvkhanna930" alt="dhruvkhanna930" /></a> </p>
 
-- 🔭 I’m currently working on [CoinCraft](https://github.com/dhruvkhanna930/CoinCraft)
+- 🔭 I’m currently working on [TheUrbanaite](https://github.com/dhruvkhanna930/TheUrbanite)
 
 - 🌱 I’m currently learning **Frontend Frameworks**
 
