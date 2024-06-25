@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvkhanna930" alt="dhruvkhanna930" /></a> </p>
 
+- 😎 My Portfolio [Dhruv's Portfolio](https://dhruv-portfolio-v2.vercel.app/)
+
 - 🔭 I’m currently working on [TheUrbanite](https://github.com/dhruvkhanna930/TheUrbanite)
 
 - 🌱 I’m currently learning **Frontend Frameworks**
