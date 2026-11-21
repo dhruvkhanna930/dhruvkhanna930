@@ -3,7 +3,7 @@
 <img src="assets/dhruv-arcade.svg" width="100%" alt="Dhruv Khanna — developer arcade"/>
 
 <a href="https://www.linkedin.com/in/dhruvkhanna930/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-9B8CFF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://dhruv-portfolio-v2.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-38D9F5?style=for-the-badge&logo=vercel&logoColor=0B1020" /></a>
+<a href="https://dhruvkhanna930.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-38D9F5?style=for-the-badge&logo=vercel&logoColor=0B1020" /></a>
 <a href="https://github.com/dhruvkhanna930"><img src="https://img.shields.io/badge/GITHUB-Player_One-C7F464?style=for-the-badge&logo=github&logoColor=0B1020" /></a>
 
 <br/>
