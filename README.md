@@ -1,59 +1,123 @@
-<!--
-**dhruvkhanna930/dhruvkhanna930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="assets/dhruv-arcade.svg" width="100%" alt="Dhruv Khanna — developer arcade"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/dhruvkhanna930/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-9B8CFF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://dhruv-portfolio-v2.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-38D9F5?style=for-the-badge&logo=vercel&logoColor=0B1020" /></a>
+<a href="https://github.com/dhruvkhanna930"><img src="https://img.shields.io/badge/GITHUB-Player_One-C7F464?style=for-the-badge&logo=github&logoColor=0B1020" /></a>
 
-<h1 align="center">Hi 👋, I'm Dhruv Khanna</h1>
-<h3 align="center">A passionate Backend Developer & Automation Enthusiast</h3>
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvkhanna930&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvkhanna930" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=850&color=38D9F5&center=true&vCenter=true&width=760&lines=SOFTWARE+ENGINEER+%40+MORGAN+STANLEY;BACKEND+SYSTEMS+%E2%80%A2+APPLIED+AI+%E2%80%A2+ANALYTICS;BUILDING+THINGS+THAT+ACTUALLY+DO+SOMETHING;CURRENT+QUEST%3A+MAKE+COMPLEXITY+FEEL+SIMPLE" alt="Animated role and interests" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvkhanna930" alt="dhruvkhanna930" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=dhruvkhanna930&style=flat-square&color=9B8CFF&label=PROFILE+VISITORS" alt="Profile visitors"/>
 
-- 😎 My Portfolio [Dhruv's Portfolio](https://dhruv-portfolio-v2.vercel.app/)
+</div>
 
-- 🔭 I’m currently working on [TheUrbanite](https://github.com/dhruvkhanna930/TheUrbanite)
+---
 
-- 🌱 I’m currently learning **Frontend Frameworks**
+## `01 / PLAYER PROFILE`
 
-- 👯 I’m looking to collaborate on [BrainStack](https://github.com/dhruvkhanna930/BrainStack)
+```yaml
+player       : Dhruv Khanna
+class        : Software Engineer
+base         : Bengaluru, India
+guild        : Morgan Stanley — Institutional Securities Technology
+specialty    : Backend Engineering • Applied AI • Data & Analytics
+education    : B.Tech, Computer Science — IIIT Gwalior
+current_mode : Building reliable systems, exploring AI, breaking things (responsibly)
+```
 
-- 👨‍💻 All of my projects are available at [https://github.com/dhruvkhanna930?tab=repositories](https://github.com/dhruvkhanna930?tab=repositories)
+I’m a software engineer who enjoys turning messy, complex problems into useful products. I work across backend systems, data-heavy applications and applied AI — with a soft spot for automation, thoughtful engineering and projects that make people say *“wait, you built that?”*
 
-- 💬 Ask me about **Python, Django and Automation Tools**
+At Morgan Stanley, I work in the **Client Portfolio Risk & Margins (CPRM)** space within Institutional Securities Technology. My work involves engineering around data-intensive workflows and internal tooling.  
+*(Internal systems and details are intentionally kept high-level.)*
 
-- 📫 How to reach me **dhruvkhanna930@gmail.com**
+## `02 / SELECT YOUR QUEST`
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ujsEaBFofRJnGL2O1UMFq4CtMWUNWHh9/view?usp=sharing](https://drive.google.com/file/d/1ujsEaBFofRJnGL2O1UMFq4CtMWUNWHh9/view?usp=sharing)
+<div align="center">
 
-- ⚡ Fun fact **I think I am funny**
+| 🕹️ QUEST | WHAT'S INSIDE | STATUS |
+|:--|:--|:--:|
+| **[INVESTRIX](https://github.com/dhruvkhanna930/investrix)** | AI-assisted portfolio research, risk insights, diversification analytics, sentiment and forecasting | `BUILT` |
+| **[RAFTA](https://github.com/dhruvkhanna930/RAFTA)** | RAG security research: hybrid semantic + invisible-Unicode attacks, evaluation and defence analysis | `RESEARCH` |
+| **[URINE STRIP ANALYZER](https://github.com/dhruvkhanna930/UrineStripAnalyzer)** | Image-based strip analysis with a Django/DRF backend and React interface | `BUILT` |
+| **MARGIN SUMMARISER** | LangGraph-based multi-agent assistant for current, historical and general margin-related queries | `INTERNAL` |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/dhruv-khanna-the-styleful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dhruv-khanna-the-styleful" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhruvkhanna930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvkhanna930" height="30" width="40" /></a>
-<a href="https://instagram.com/dhruvkhanna930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvkhanna930" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/khannadhruv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khannadhruv" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dhruvkhanna930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruvkhanna930" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhruvkhanna930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvkhanna930" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<details>
+<summary><b>🔍 Open the RAFTA research log</b></summary>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvkhanna930&show_icons=true&locale=en&layout=compact" alt="dhruvkhanna930" /></p>
+RAFTA (RAG Forensics and Threat Analysis) explores how retrieval-augmented generation systems can be manipulated through combined semantic prompt injection and invisible Unicode character techniques. The work evaluates multiple RAG architectures and examines practical defensive layers such as Unicode normalisation, zero-width character removal and perplexity-based filtering.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvkhanna930&show_icons=true&locale=en" alt="dhruvkhanna930" /></p>
+</details>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvkhanna930&" alt="dhruvkhanna930" /></p>
+<details>
+<summary><b>🧠 Open the Investrix build notes</b></summary>
 
+Investrix brings together portfolio tracking and analytical signals: risk profiling, diversification and concentration views, fundamental similarity, news sentiment analysis and time-series forecasting. The goal is to make portfolio information easier to interpret — not to pretend that a model can predict markets perfectly.
+
+</details>
+
+## `03 / THE LOADOUT`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,react,typescript,tailwind,docker,git,github,linux&perline=6&theme=dark" alt="Technology stack"/>
+
+</div>
+
+**Core languages & backend:** Python, SQL, Django, Django REST Framework, FastAPI  
+**Data & infrastructure:** PostgreSQL, Redis, Sybase, pyODBC, Docker  
+**Frontend:** React, Vite, Tailwind CSS  
+**AI / data:** LangGraph, RAG, ChromaDB, Sentence Transformers, Ollama, NLP, analytics  
+**Workflow:** Git, GitHub, API design, automation, debugging
+
+## `04 / ARCADE MODE`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dhruvkhanna930/dhruvkhanna930/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+
+**Achievement unlocked:** You made it this far. +100 XP.  
+*The bugs are not a feature. The occasional side quest is.*
+
+</div>
+
+A GitHub README cannot safely host a playable JavaScript game or iframe, so this arcade section uses animated visuals and expandable “quest logs” instead of fake game controls. The contribution snake becomes your live arcade animation once the workflow below is enabled.
+
+## `05 / PLAYER STATS`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruvkhanna930&show_icons=true&hide_border=true&bg_color=0B1020&title_color=38D9F5&icon_color=C7F464&text_color=E8EAF6&rank_icon=github" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvkhanna930&layout=compact&hide_border=true&bg_color=0B1020&title_color=9B8CFF&text_color=E8EAF6" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=dhruvkhanna930&hide_border=true&background=0B1020&ring=9B8CFF&fire=C7F464&currStreakLabel=38D9F5&sideLabels=E8EAF6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AA4B2" alt="GitHub streak"/>
+
+</div>
+
+## `06 / OFF-DUTY SIDE QUESTS`
+
+- 🎧 Music on repeat — Charlie Puth, Ed Sheeran and whatever gets stuck in my head.
+- 🍳 Cooking — because feeding people is a pretty good love language.
+- 🛠️ DIY builds — turning random everyday stuff into things it probably had no business becoming.
+- 🎌 Anime, tech rabbit holes and spontaneous food discoveries.
+
+## `07 / FINAL BOSS: SAY HELLO`
+
+<div align="center">
+
+**Have an interesting engineering problem, a fun build idea, or just want to talk tech?**
+
+<a href="https://www.linkedin.com/in/dhruvkhanna930/"><img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-9B8CFF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://dhruv-portfolio-v2.vercel.app/"><img src="https://img.shields.io/badge/SEE_MY_WORK-Portfolio-38D9F5?style=for-the-badge&logo=vercel&logoColor=0B1020" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,55:29245A,100:167C91&height=110&section=footer" width="100%" alt="Footer wave"/>
+
+<sub>Made with curiosity, caffeine, and an unreasonable number of browser tabs.</sub>
+
+</div>
