@@ -112,7 +112,7 @@ A GitHub README cannot safely host a playable JavaScript game or iframe, so this
 **Have an interesting engineering problem, a fun build idea, or just want to talk tech?**
 
 <a href="https://www.linkedin.com/in/dhruvkhanna930/"><img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-9B8CFF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://dhruv-portfolio-v2.vercel.app/"><img src="https://img.shields.io/badge/SEE_MY_WORK-Portfolio-38D9F5?style=for-the-badge&logo=vercel&logoColor=0B1020" /></a>
+<a href="https://dhruvkhanna930.vercel.app/"><img src="https://img.shields.io/badge/SEE_MY_WORK-Portfolio-38D9F5?style=for-the-badge&logo=vercel&logoColor=0B1020" /></a>
 
 <br/><br/>
 
