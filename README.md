@@ -85,8 +85,6 @@ Investrix brings together portfolio tracking and analytical signals: risk profil
 
 </div>
 
-A GitHub README cannot safely host a playable JavaScript game or iframe, so this arcade section uses animated visuals and expandable “quest logs” instead of fake game controls. The contribution snake becomes your live arcade animation once the workflow below is enabled.
-
 ## `05 / PLAYER STATS`
 
 <div align="center">
